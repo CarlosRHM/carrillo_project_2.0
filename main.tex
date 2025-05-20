@@ -1,0 +1,84 @@
+\documentclass[letterpaper]{article}
+
+%%%% ========== PAQUETES NECESARIOS ========== %%%%
+\usepackage[utf8]{inputenc} % Codificación de caracteres
+\usepackage[spanish]{babel} % Idioma del documento
+\usepackage[dvipsnames]{xcolor} % Colores extendidos
+\usepackage{amsmath, amssymb, physics} % Matemáticas avanzadas
+\usepackage{graphicx} % Insertar imágenes
+\usepackage{multicol} % Múltiples columnas
+\usepackage{tikz} % Dibujos vectoriales
+\usepackage{fancyhdr} % Encabezados y pies de página
+\usepackage[colorlinks=true, linkcolor=black,citecolor=black, urlcolor=black]{hyperref} % Hipervínculos
+\usepackage[numbers, square]{natbib} % Citas y bibliografía
+%%%% ========== CONFIGURACIÓN DE MÁRGENES ========== %%%%
+\usepackage{geometry}
+\geometry{bottom=2.54cm, top=2.54cm, left=2.54cm, right=2.54cm}
+
+\usepackage{float}
+%%%% ========== ENCABEZADOS Y PIES DE PÁGINA ========== %%%%
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{Mecánica Estadística}
+\fancyhead[L]{\thepage}
+\renewcommand{\headrulewidth}{0.08pt}
+\renewcommand{\footrulewidth}{0.08pt}
+\fancyfoot[L]{}
+\fancyfoot[R]{\rightmark}
+
+%%%% ========== COMANDOS PERSONALIZADOS ========== %%%%
+\newcommand{\Title}[1]{\begin{center}\LARGE\textbf{\textit{#1}}\end{center}}
+\newcommand{\Abstract}[1]{\begin{abstract}\normalsize{#1}\end{abstract}}
+\newcommand{\Theorem}[1]{\begin{center}\normalsize\textit{#1}\end{center}}
+
+% Colores personalizados
+\newcommand{\blue}{\color{blue}}
+\newcommand{\red}{\color{red}}
+\newcommand{\green}{\color{OliveGreen}}
+\newcommand{\orange}{\color{orange}}
+
+% Atajos matemáticos
+\newcommand{\Identity}{\mathbb{I}}
+\newcommand{\Reals}{\mathbb{R}}
+\newcommand{\Naturals}{\mathbb{N}}
+\newcommand{\Integers}{\mathbb{Z}}
+\newcommand{\Complex}{\mathbb{C}}
+
+% Operadores matemáticos
+\newcommand{\Grad}{\vec{\nabla}}
+\newcommand{\Divg}{\vec{\nabla} \cdot}
+\newcommand{\Curl}{\vec{\nabla} \times}
+\newcommand{\Lapl}{\nabla^{2}}
+
+% Derivadas y operadores
+\newcommand{\Partial}[2]{\frac{\partial#1}{\partial#2}}
+\newcommand{\SecPartial}[3]{\frac{\partial^{2}#1}{\partial#2\partial#3}}
+
+% Ecuaciones de movimiento
+\newcommand{\eqLagrange}[1]{\frac{d}{dt}\cbk{\Partial[\dot{#1}]{\Lag}} - \Partial[#1]{\Lag} = 0}
+\newcommand{\Ham}{\mathcal{H}}
+\newcommand{\eqHamilton}[2]{\Partial[#1_{i}]{\Ham} = - \dot{#2}_{i}, \quad \Partial[#2_{i}]{\Ham} = \dot{#1}_{i}}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em} 
+
+\begin{document}
+
+\Title{Sho que se bolu}
+\input{00_abstract.tex}
+\input{00_objetivos.tex}
+
+\setlength{\parindent}{1.5em}
+\setlength{\parskip}{0pt}
+\tableofcontents
+\clearpage
+
+\input{01.tex}
+\input{02.tex}
+\input{03.tex}
+\input{04.tex}
+
+\clearpage
+\bibliographystyle{plainnat}
+\bibliography{ref}
+\end{document}

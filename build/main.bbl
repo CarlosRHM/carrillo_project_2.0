@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Diekmann et~al.(2005)Diekmann, Jabin, Mischler, and
+  Perthame]{dieckman2005}
+Odo Diekmann, Pierre-Emanuel Jabin, Stéphane Mischler, and Benoît Perthame.
+\newblock The dynamics of adaptation: An illuminating example and a
+  hamilton–jacobi approach.
+\newblock \emph{Theoretical Population Biology}, 67\penalty0 (4):\penalty0
+  257--271, 2005.
+\newblock \doi{10.1016/j.tpb.2004.12.003}.
+
+\end{thebibliography}

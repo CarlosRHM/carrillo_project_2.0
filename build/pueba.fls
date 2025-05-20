@@ -1,0 +1,20 @@
+PWD d:\Users\carlo\Desktop\Carrillo Proyect 2
+INPUT C:\Users\carlo\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\pueba.tex
+OUTPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\build\pueba.log
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\build\pueba.aux
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\build\pueba.aux
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\build\pueba.aux
+OUTPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\build\pueba.aux
+OUTPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\build\pueba.pdf
+INPUT C:\Users\carlo\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\build\pueba.aux
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb

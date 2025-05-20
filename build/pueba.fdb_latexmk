@@ -1,0 +1,16 @@
+# Fdb version 4
+["pdflatex"] 1747708117 "d:/Users/carlo/Desktop/Carrillo Proyect 2/pueba.tex" "build/pueba.pdf" "pueba" 1747708118 0
+  "C:/Users/carlo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1733706198 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/carlo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1717568366 24213230 5a91b27a684121c868ef0bcfcd1d47d5 ""
+  "C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/carlo/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1698826601 20144 fbcf51733730d8f1a62143512ff5b1fe ""
+  "C:/Users/carlo/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1698826601 8448 74078c4a887f2cdcd57c3ec111622740 ""
+  "C:/Users/carlo/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1699552361 29988 6d57d2b884f7464419678df319af86d2 ""
+  "build/pueba.aux" 1747708117 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "d:/Users/carlo/Desktop/Carrillo Proyect 2/pueba.tex" 1747704122 65 4f3d07fd1954ab6187e7a004be852ec6 ""
+  "pueba.tex" 1747704122 65 4f3d07fd1954ab6187e7a004be852ec6 ""
+  (generated)
+  "build/pueba.aux"
+  "build/pueba.log"
+  "build/pueba.pdf"
+  (rewritten before read)
