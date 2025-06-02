@@ -167,6 +167,11 @@ INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgf
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
@@ -239,6 +244,8 @@ INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.c
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
 INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.aux
 INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.aux
 INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.aux
@@ -277,24 +284,6 @@ INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.
 INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.toc
 INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.toc
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-OUTPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.toc
-INPUT C:\Users\carlo\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT .\01.tex
-INPUT .\01.tex
-INPUT 01.tex
-INPUT .\02.tex
-INPUT .\02.tex
-INPUT 02.tex
-INPUT .\03.tex
-INPUT .\03.tex
-INPUT 03.tex
-INPUT .\04.tex
-INPUT .\04.tex
-INPUT 04.tex
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.bbl
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.bbl
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.bbl
-INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
@@ -309,9 +298,38 @@ INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+OUTPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.toc
+INPUT C:\Users\carlo\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\01.tex
+INPUT .\01.tex
+INPUT 01.tex
+INPUT .\02_Fundamentos Teóricos.tex
+INPUT .\02_Fundamentos Teóricos.tex
+INPUT 02_Fundamentos Teóricos.tex
+INPUT .\02.1_Teoría_de_Grafos.tex
+INPUT .\02.1_Teoría_de_Grafos.tex
+INPUT 02.1_Teoría_de_Grafos.tex
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT .\02.3_Redes_Libres_de_Escala.tex
+INPUT .\02.3_Redes_Libres_de_Escala.tex
+INPUT 02.3_Redes_Libres_de_Escala.tex
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
+INPUT .\03.tex
+INPUT .\03.tex
+INPUT 03.tex
+INPUT .\04.tex
+INPUT .\04.tex
+INPUT 04.tex
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.bbl
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.bbl
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.bbl
 INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.aux
 INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.out
 INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.out
+INPUT C:\Users\carlo\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\carlo\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
@@ -320,7 +338,17 @@ INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb

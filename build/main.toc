@@ -1,5 +1,13 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {section}{\numberline {1}}{2}{section.1}%
-\contentsline {section}{\numberline {2}}{2}{section.2}%
-\contentsline {section}{\numberline {3}}{2}{section.3}%
-\contentsline {section}{\numberline {4}Conclusiones}{2}{section.4}%
+\contentsline {section}{\numberline {2}Fundamento Teórico}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Teoría de Grafos}{2}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}¿Qué es la teoría de grafos?}{2}{subsubsection.2.1.1}%
+\contentsline {paragraph}{Origen histórico.}{2}{section*.3}%
+\contentsline {subsubsection}{\numberline {2.1.2}Problema principal}{2}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Conceptos clave}{2}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Métricas estadísticas y estructurales}{3}{subsubsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.5}Aplicación a redes neuronales}{3}{subsubsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.2}Redes libres de escala (modelo de Barabási–Albert)}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}}{6}{section.3}%
+\contentsline {section}{\numberline {4}Conclusiones}{6}{section.4}%

@@ -5,13 +5,9 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Diekmann et~al.(2005)Diekmann, Jabin, Mischler, and
-  Perthame]{dieckman2005}
-Odo Diekmann, Pierre-Emanuel Jabin, Stéphane Mischler, and Benoît Perthame.
-\newblock The dynamics of adaptation: An illuminating example and a
-  hamilton–jacobi approach.
-\newblock \emph{Theoretical Population Biology}, 67\penalty0 (4):\penalty0
-  257--271, 2005.
-\newblock \doi{10.1016/j.tpb.2004.12.003}.
+\bibitem[Barab{\'a}si and Albert(1999)]{barabasi1999emergence}
+Albert-L{\'a}szl{\'o} Barab{\'a}si and R{\'e}ka Albert.
+\newblock Emergence of scaling in random networks.
+\newblock \emph{Science}, 286\penalty0 (5439):\penalty0 509--512, 1999.
 
 \end{thebibliography}
