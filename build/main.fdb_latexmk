@@ -1,17 +1,17 @@
 # Fdb version 4
-["bibtex build/main"] 1748841893 "build/main.aux" "build/main.bbl" "build/main" 1748842294 0
+["bibtex build/main"] 1748846096 "build/main.aux" "build/main.bbl" "build/main" 1748846098 0
   "./ref.bib" 1748840276 317 7b0b4785358d975ba95ded3831ac2a6d ""
   "C:/Users/carlo/AppData/Local/Programs/MiKTeX/bibtex/bst/natbib/plainnat.bst" 1284455456 26816 ffe5423d2019860bad9f54bc402fac15 ""
-  "build/main.aux" 1748842294 2353 aa9882aca84b06079a04406ac65fc165 "pdflatex"
+  "build/main.aux" 1748846098 2353 aa9882aca84b06079a04406ac65fc165 "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1748842293 "d:/Users/carlo/Desktop/Carrillo Proyect 2/carrillo_project_2.0/main.tex" "build/main.pdf" "main" 1748842294 0
+["pdflatex"] 1748846097 "d:/Users/carlo/Desktop/Carrillo Proyect 2/carrillo_project_2.0/main.tex" "build/main.pdf" "main" 1748846098 0
   "00_abstract.tex" 1748841034 48 58fb3ccf3bcf3c530a005cf7ae5552e2 ""
   "00_objetivos.tex" 1747709300 20 f5c0a5edc62cc6c681492d564a74f7ba ""
   "01.tex" 1747709300 10 dc1d27bd177a0f9a6c0d556e467cf85e ""
-  "02.1_Teoría_de_Grafos.tex" 1748842048 7060 3035c55138c6a9e0137a1b188fbd3710 ""
+  "02.1_Teoría_de_Grafos.tex" 1748846094 7064 f43e0140bb96bf5be9519dcee228c417 ""
   "02.3_Redes_Libres_de_Escala.tex" 1748842292 5779 17506c30f64020ef71493770703ba35b ""
   "02_Fundamentos Teóricos.tex" 1748841209 378 021a6d217c11cd9d0477919c1b11c06b ""
   "03.tex" 1747709300 10 dc1d27bd177a0f9a6c0d556e467cf85e ""
@@ -183,10 +183,10 @@
   "C:/Users/carlo/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1700599895 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "C:/Users/carlo/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/carlo/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "build/main.aux" 1748842294 2353 aa9882aca84b06079a04406ac65fc165 "pdflatex"
-  "build/main.bbl" 1748841893 531 f9f2998053f1ac222e93824fca769671 "bibtex build/main"
-  "build/main.out" 1748842294 1824 47d434974da53115935b3106bdce7aa9 "pdflatex"
-  "build/main.toc" 1748842294 1062 f9585fddefa1c04b06a1c57c35d022de "pdflatex"
+  "build/main.aux" 1748846098 2353 aa9882aca84b06079a04406ac65fc165 "pdflatex"
+  "build/main.bbl" 1748846097 531 f9f2998053f1ac222e93824fca769671 "bibtex build/main"
+  "build/main.out" 1748846098 1824 47d434974da53115935b3106bdce7aa9 "pdflatex"
+  "build/main.toc" 1748846098 1062 f9585fddefa1c04b06a1c57c35d022de "pdflatex"
   "d:/Users/carlo/Desktop/Carrillo Proyect 2/carrillo_project_2.0/main.tex" 1748836376 2877 e5c19101e579895bc49b66b014c1ba20 ""
   "main.tex" 1748836376 2877 e5c19101e579895bc49b66b014c1ba20 ""
   (generated)
