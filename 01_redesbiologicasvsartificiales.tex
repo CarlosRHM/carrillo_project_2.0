@@ -1,1 +1,118 @@
-\section{}
+\section{Redes neuronales biológicas vs redes neuronales artificiales}
+\label{sec_intro}
+
+\subsection{Funcionamiento de neuronas biológicas}
+
+Del marco de trabajo de la termodinámica se ha aprendido a trabajar con modelos empíricos, es decir modelos que responden a la experiencia fenomenológica, desde esta forma de trabajar, se puede intentar replicar la forma en la que naturaleza se comporta en sistemas como el cerebro, lo cual se tratará de hacer utilizando redes neuronales artificiales. La obra maestra de la naturaleza son las redes neuronales biológicas. El cerebro humano está conformado por billones de neuronas, en las que cada una de ellas se conecta a miles de otras, lo que genera una compleja red para manejar información. Una neurona es una célula nerviosa que tiene la función de recibir, procesar y transmitir información por medio de señales eléctricas y químicas, debido a la excitabilidad eléctrica (capacidad de las neuronas de cambiar su potencial eléctrico y transmitir este cambio a través de su axón) de su membrana plasmática. \  
+
+Una neurona biológica tiene tres partes principales: 
+\begin{enumerate}
+\item Dendritas: Reciben las señales de otras neuronas.
+\item Cuerpo celular (soma): Procesan las señales entrantes.  
+\item Axón: Es la parte que conduce impulsos eléctricos desde el cuerpo celular hacia otras neuronas. 
+\end{enumerate} 
+
+\begin{figure}[h!] %H para ocupar imagenes en doble col.
+		\centering	
+		\includegraphics[scale=0.25]{Biological-neural-network-2}
+		\caption{Representación de una neurona}
+\end{figure}
+
+\subsection{Transmisión de señales y mecanismos de aprendizaje}
+
+Las neuronas se comunican mediante impulsos conocidos como potenciales de acción. Cuando una señal alcanza la parte final del axón, se liberan neurotransmisores transfiriendo la señal a la siguiente neurona. 
+
+Las neuronas fortalecen o debilitan sus conexiones basándose en la experiencia, la plasticidad sináptica (capacidad del cerebro de modificar la fuerza o eficacia de las conexiones sinápticas entre neuronas) es el equivalente biológico al aprendizaje. 
+
+Las redes neuronales biológicas son adaptativas, distribuibles 
+
+\subsection{Funcionamiento de neuronas artificiales}
+
+Una neurona artificial o perceptrón es la red neuronal más simple de todas ya que sólo contiene una única capa de entrada y un nodo de salida, es un modelo matemático simplificado para tratar de replicar el funcionamiento de una neurona biológica. Sus partes son: 
+
+\begin{enumerate}
+\item Entradas: Reciben señales como lo hacen las dendritas, con la diferencia de que las entradas de las neuronas artificiales son entradas numéricas.
+\item Pesos sinápticos: Cada una de las entradas es ponderada, lo cual representa la fuerza de cada conexión.
+\item Función de agregación: Las entradas ponderadas se suman. 
+\item Función de activación: La suma pasa a través de una \textit{función de activación} que determina si la neurona da un valor de salida.
+\item Salida: La salida final que pasa a la siguiente capa de neuronas. 
+\end{enumerate}
+
+\begin{figure}[h!] %H para ocupar imagenes en doble col.
+		\centering	
+		\includegraphics[scale=0.7]{artneuron.png}
+		\caption{Neurona artificial}
+\end{figure}
+
+En la fig. 2 se puede ver en la parte inferior las partes que conforman la neurona artificial y en la parte superior a que corresponde esa parte en una neurona biológica.
+
+\subsubsection{Modelo de McCulloch-Pitts}
+
+El modelo más simple para una neurona artificial es el modelo de McCulloch-Pitts, modelo que se puede observar en la fig. 2, en este modelo las entradas son el estímulo que la neurona artificial recibe del entorno que le rodea, la salida es la respuesta a ese estímulo. En este modelo la neurona se adapta al medio y aprende de él modificando el valor de los pesos sinápticos, por lo cual los mismos serán los parámetros libres que ayudaran a optimizar el aprendizaje de la neurona. La salida neuronal está dada por 
+
+\begin{equation}
+Y=f( \omega_0 + \sum_{i=1}^n \omega_i x_i )
+\end{equation}
+
+donde $\omega_0$ es el umbral, $\omega_i x_i$ son las entradas $x_i$ siendo ponderadas por el peso $\omega_i$. La función del umbral es la de actuar como un valor constante que permite que la neurona se active o "dispare" incluso si la suma ponderada de las entradas es igual a cero. La función de activación suele elegirse de acuerdo a la tarea realizada por la neurona. En la siguiente tabla se muestran algunas funciones de activación utilizadas para diversos tipos de redes neuronales. 
+
+\begin{figure}[h!] %H para ocupar imagenes en doble col.
+		\centering	
+		\includegraphics[scale=0.15]{activation-functions.png}
+		\caption{Funciones de activación comunes}
+\end{figure}
+
+Como ejemplo se puede decir que una función de activación lineal se utiliza a la salida en redes neuronales que resuelven problemas de regresión. Compuertas del tipo signum o sigmoid se utilizan en redes neuronales que realizan procesos de clasificación binaria. 
+
+
+
+\subsection{Diferencias clave entre redes neuronales biológicas y artificiales}
+
+Así como una red neuronal biológica es un conjunto de neuronas interconectadas mediante la sinapsis, una red neuronal artificial es un conjunto de neuronas artificiales interconectadas. Por lo que, ahora que ya se conocen las partes que conforman una neurona artificial y una neurona biológica, se puede resumir en una tabla las principales diferencias una red neuronal biológica y una artificial. 
+
+
+\begin{table}[h!]
+\begin{center}
+\begin{tabular}{| r | l | c |}
+ & Redes Biológicas & Redes Artificiales \\ \hline
+Componentes & Neuronas (dentritas, axones, sinapsis) & Nodos, pesos sinápticos \\
+Tipo de Señal & Señales eléctricas y químicas & Datos numéricos \\
+Aprendizaje & Plasticidad sináptica & Optimización del peso  \\ 
+Adaptabilidad & Altamente adaptable y auto organizada & Requiere entrenamiento mediante datos \\
+Rapidez & Lenta pero masivamente paralela & Rápida pero menos flexible  \\
+Escala & Billones de neuronas & Pocos millones de nodos  \\ \hline
+\end{tabular}
+\caption{Diferencias entre redes biológicas y artificiales}
+\label{tab:fruta}
+\end{center}
+\end{table} 
+
+\subsection{Redes Neuronales Multicapa MLP}
+
+Las redes neuronales multicapa contienen más de una capa computacional. El perceptrón contiene una capa de entrada y una capa de salida, de las cuales la capa de salida es la única capa que realiza cálculos. La capa de entrada transmite los datos hacia la capa de salida y todos los cálculos son visibles al usuario. Las redes neuronales multicapa contienen múltiples capas computacionales, capas intermedias adicionales entre la entrada y la salida a las cuales se les conoce como \textit{capas ocultas} debido a que los cálculos realizados en ellas no son visibles al usuario. La arquitectura específica de estas redes es de tipo prealimentado ó \textit{feed-forward}, en dicha arquitectura se asume que todos los nodos en cada capa están conectados a aquellos de la siguiente capa. Por lo tanto, la arquitectura de la red neuronal, estará casi definida, una vez que el número de capas y el número/tipo de nodos en cada capa se haya definido. Al número de unidades que tiene cada capa se le conoce como \textit{dimensionalidad} de la capa.
+
+\begin{figure}[h!] %H para ocupar imagenes en doble col.
+		\centering	
+		\includegraphics[scale=1]{redmulticapa.png}
+		\caption{Red Multicapa}
+\end{figure}
+
+Se puede entender por lo tanto que la capa de entrada recibe los datos, la capa oculta procesa los datos y la capa de salida da la respuesta de la red. Este tipo de redes se ponen a prueba con datos estandarizados para ver la capacidad que tiene la red para reproducirlos, optimizando el proceso hasta lograr el resultado esperado, a esto se le conoce como \textit{entrenamiento} de la red.
+
+\subsection{Redes Neuronales Convolucionales CNN}
+
+Las redes neuronales convolucionales son redes inspiradas en redes biológicas y que se usan principalmente en visión computarizada para la clasificación y detección de objetos. La motivación básica para este tipo de redes se obtuvo del entendimiento que Hubel y Weisel lograron acerca de la corteza visual en los gatos, en la cual porciones específicas del campo visual excitan ciertas neuronas. 
+
+Para las redes convolucionales, se define una \textit{operación de convolución}, en la cual se usa un filtro para mapear las activaciones de una capa a la siguiente. Una operación de convolución utiliza un filtro tridimensional de pesos con la misma profundidad que la capa en la que se encuentra pero con una medida espacial menor. El producto punto entre todos los pesos en el filtro y cualquier elección de región espacial (del mismo tamaño del filtro) en una capa define el valor del estado oculto en la siguiente capa. La operación entre el filtro y la región espacial en la capa se realiza en cada posición posible de modo que se pueda definir la siguiente capa.
+
+\begin{figure}[h!] %H para ocupar imagenes en doble col.
+		\centering	
+		\includegraphics[scale=1]{redconvolucional.png}
+		\caption{Una de las primeras redes convolucionales}
+\end{figure}
+
+Las redes neuronales convolucionales han sido las redes más exitosas de todos los tipos de redes neuronales. Se utilizan ampliamente para reconocimiento de imágenes, detección de objetos e incluso en procesamiento de texto. El desempeño de estas redes ha superado recientemente a los humanos en la realización de tareas de clasificación de imágenes, por esto pueden llegar a ser bastante útiles como herramienta para el diagnóstico de enfermedades basados en estudios de imagenología clínica. 
+
+\subsection{Propiedades de una red compleja}
+
+Es importante conocer e identificar las propiedades que tiene una red compleja como lo son las redes neuronales, desde este punto de vista, la teoría de grafos es una herramienta bastante poderosa para describir y cuantificar las propiedades de redes complejas. Propiedades como la densidad de nodos o el coeficiente de agrupamiento se utilizan en áreas como la neurociencia para relacionar la estructura cerebral con el comportamiento. Por lo tanto en la siguiente sección se iniciará un estudio de las bases teóricas de la teoría de grafos. 
