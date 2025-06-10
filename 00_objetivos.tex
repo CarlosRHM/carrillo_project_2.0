@@ -1,1 +1,44 @@
-\section*{Objetivos}
+\section{Introduction}
+
+En las últimas décadas, el estudio de los sistemas complejos ha cobrado gran relevancia en múltiples disciplinas científicas, desde la física y la biología, hasta las ciencias sociales, la economía y la informática. Un sistema complejo se define como aquel que está compuesto por un gran número de elementos interactuantes —como partículas, agentes, nodos, neuronas u organismos— cuya dinámica conjunta da lugar a comportamientos emergentes no triviales. Dichos comportamientos no pueden deducirse directamente a partir del análisis de las partes individuales, pues surgen de interacciones no lineales, acopladas y frecuentemente retroalimentadas. Ejemplos paradigmáticos de estos sistemas incluyen redes neuronales, ecosistemas, mercados financieros, redes sociales y genomas.
+
+Para comprender cómo propiedades globales emergen a partir de componentes locales, es fundamental contar con un marco teórico que permita conectar la dinámica microscópica con el comportamiento macroscópico. En este contexto, la mecánica estadística —una rama de la física originalmente desarrollada para explicar fenómenos termodinámicos— ofrece una poderosa caja de herramientas. Mediante conceptos como micro-estados, distribuciones de probabilidad, entropía, correlaciones y transiciones de fase, la mecánica estadística permite modelar sistemas con un número elevado de grados de libertad, capturando no sólo su comportamiento promedio, sino también sus fluctuaciones y estructuras colectivas.
+
+En el caso de sistemas complejos, el uso de la mecánica estadística se extiende más allá de su dominio tradicional. Por ejemplo, en lugar de considerar átomos o moléculas, se modelan agentes sociales, neuronas, empresas o genes, donde cada micro-estado describe una configuración posible del sistema y a cada uno se le asigna una probabilidad $P(x)$. Las propiedades globales del sistema, como orden, consenso o diversidad, se obtienen como valores esperados:
+
+\[
+    \langle A \rangle = \sum_x A(x)P(x)
+\]
+
+
+\cite{huang1987statistical}Cuando el número de micro-estados es astronómico, como ocurre en la mayoría de los sistemas complejos reales, es necesario recurrir a distribuciones de probabilidad para modelarlos eficientemente. Un ejemplo es la distribución de Boltzmann:
+
+\[
+P(x) = \frac{1}{Z} e^{-\beta E(x)},
+\]
+
+donde $E(x)$ representa una función de energía efectiva que puede codificar, por ejemplo, disconformidad social, distancia entre preferencias o consumo de recursos, y $Z$ es la función de partición que garantiza la normalización. Esta estructura permite estudiar el equilibrio estadístico del sistema bajo distintas condiciones.
+
+Además, modelos de espines como el de Ising o Potts han sido adaptados para describir decisiones binarias o multivariadas en sistemas sociales o biológicos. La energía del sistema en el modelo de Ising, por ejemplo, se escribe como:
+
+\[
+E = -J \sum_{\langle i,j \rangle} s_i s_j,
+\]
+
+donde  $s_i=\pm1$ representa una elección individual (por ejemplo, una opinión), y $J$ determina la fuerza de la interacción (como la tendencia al conformismo en redes sociales).
+
+La evolución temporal de estos sistemas se modela mediante técnicas de dinámica estocástica, como caminatas aleatorias, procesos de Markov o algoritmos de Monte Carlo. Por ejemplo, la evolución de una distribución de probabilidad puede describirse con una ecuación de tipo maestro:
+
+\[
+P(x_{t+1}) = \sum_{x_t} W(x_{t+1} \mid x_t) P(x_t),
+\]
+
+donde $W(x_{t+1}|x_t)$ es la probabilidad de transición entre estados. Estas herramientas permiten simular cómo la información, las opiniones o los recursos se propagan en el sistema.\\
+
+\cite{mitchell2009complexity}Las redes neuronales artificiales, al estar formadas por muchas unidades interconectadas que procesan información de forma distribuida, constituyen un paradigma natural para explorar dinámicas colectivas, autoorganización, y transiciones de fase. Su comportamiento puede describirse formalmente mediante herramientas de la mecánica estadística, una rama de la física que estudia cómo emergen las propiedades macroscópicas de un sistema a partir de sus interacciones microscópicas, utilizando modelos probabilísticos y conceptos como la energía, la entropía, la función de partición o los estados de equilibrio.\\
+
+En este contexto, las redes neuronales —especialmente aquellas con arquitectura recurrente o estocástica, como las Restricted Boltzmann Machines y los modelos de Hopfield— pueden ser interpretadas como sistemas de espines generalizados, donde los pesos sinápticos juegan el papel de interacciones, y la dinámica de activación neuronal se asemeja al proceso de relajación térmica de un sistema físico hacia el equilibrio. Esta analogía permite analizar el aprendizaje como una minimización de energía libre, describir configuraciones mediante distribuciones de Boltzmann y estudiar la capacidad de memoria o generalización mediante transiciones de fase y fenómenos críticos.\\
+
+Además, conceptos fundamentales de la mecánica estadística como la entropía de Shannon, la información mutua o los procesos de Markov son esenciales para cuantificar la complejidad, diversidad y flujo de información en redes neuronales. Gracias a esta intersección entre física y aprendizaje automático, ha sido posible desarrollar modelos más interpretables y eficientes, así como aplicar las redes neuronales como herramientas para analizar datos provenientes de otros sistemas complejos: desde patrones de actividad cerebral hasta dinámicas de opinión en redes sociales o propagación de epidemias.\\
+
+Este reporte se enfoca en explorar cómo la formulación estadística permite comprender y modelar el comportamiento emergente de redes neuronales, tanto como modelos de sistemas complejos como herramientas para estudiarlos, destacando la profunda conexión con la física estadística.
