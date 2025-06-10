@@ -1,13 +1,34 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {section}{\numberline {1}}{2}{section.1}%
-\contentsline {section}{\numberline {2}Fundamento Teórico}{2}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Teoría de Grafos}{2}{subsection.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.1}¿Qué es la teoría de grafos?}{2}{subsubsection.2.1.1}%
-\contentsline {paragraph}{Origen histórico.}{2}{section*.3}%
-\contentsline {subsubsection}{\numberline {2.1.2}Problema principal}{2}{subsubsection.2.1.2}%
-\contentsline {subsubsection}{\numberline {2.1.3}Conceptos clave}{2}{subsubsection.2.1.3}%
-\contentsline {subsubsection}{\numberline {2.1.4}Métricas estadísticas y estructurales}{3}{subsubsection.2.1.4}%
-\contentsline {subsubsection}{\numberline {2.1.5}Aplicación a redes neuronales}{3}{subsubsection.2.1.5}%
-\contentsline {subsection}{\numberline {2.2}Redes libres de escala (modelo de Barabási–Albert)}{4}{subsection.2.2}%
-\contentsline {section}{\numberline {3}}{6}{section.3}%
-\contentsline {section}{\numberline {4}Conclusiones}{6}{section.4}%
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Redes neuronales biológicas vs redes neuronales artificiales}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Funcionamiento de neuronas biológicas}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Transmisión de señales y mecanismos de aprendizaje}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Funcionamiento de neuronas artificiales}{5}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Modelo de McCulloch-Pitts}{5}{subsubsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.4}Diferencias clave entre redes neuronales biológicas y artificiales}{6}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Redes Neuronales Multicapa MLP}{7}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Redes Neuronales Convolucionales CNN}{7}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Propiedades de una red compleja}{8}{subsection.2.7}%
+\contentsline {section}{\numberline {3}Fundamento Teórico}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Teoría de Grafos}{8}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}¿Qué es la teoría de grafos?}{8}{subsubsection.3.1.1}%
+\contentsline {paragraph}{Origen histórico.}{9}{section*.2}%
+\contentsline {subsubsection}{\numberline {3.1.2}Problema principal}{9}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Conceptos clave}{9}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Métricas estadísticas y estructurales}{10}{subsubsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.2}Perceptrón}{10}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Modelos de redes}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Reed feedfoward}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Redes recurrentes}{11}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Red de Hopfield}{11}{subsubsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.3}Redes libres de escala (modelo de Barabási–Albert)}{12}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Aplicaciones de las redes neuronales}{14}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Feedforward}{14}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Redes Neuronales Recurrentes (RNN)}{14}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Hopfield}{14}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Red neuronal convolucional para la detección y clasificación del cáncer de mama mediante aprendizaje profundo}{15}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Datos y procesamiento}{15}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Arquitectura}{16}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Comparación con otros modelos}{16}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Resultados}{16}{subsection.6.4}%
+\contentsline {section}{\numberline {7}Conclusiones}{16}{section.7}%

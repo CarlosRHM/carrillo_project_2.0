@@ -2,7 +2,7 @@
 
 \subsubsection{¿Qué es la teoría de grafos?}
 
-La teoría de grafos es una rama de las matemáticas que estudia las propiedades de sistemas complejos modelados mediante estructuras matemáticas llamadas \textbf{grafos}. Estas estructuras se utilizan para representar relaciones entre objetos. 
+La teoría de grafos es una rama de las matemáticas que estudia las propiedades de sistemas complejos modelados mediante estructuras matemáticas llamadas \textbf{grafos}. Estas estructuras se utilizan para representar relaciones entre objetos \citep{bollobas1998modern}. 
 
 Un grafo está compuesto por:
 
@@ -136,26 +136,3 @@ Estas métricas permiten analizar cuantitativamente las propiedades del grafo. S
 \bottomrule
 \end{tabular}
 \end{center}
-
-\subsubsection{Aplicación a redes neuronales}
-
-Las redes neuronales artificiales pueden modelarse como grafos dirigidos con peso:
-
-\begin{itemize}
-    \item Las \textbf{neuronas} son los \textbf{nodos} del grafo.
-    \item Las \textbf{conexiones sinápticas} son los \textbf{enlaces dirigidos} con un \textbf{peso} asociado, que representa la fuerza de la conexión.
-\end{itemize}
-
-Este enfoque permite aplicar herramientas de teoría de grafos para analizar, optimizar y entender el comportamiento estructural de las redes neuronales.
-
-\subsubsection*{Ejemplos de aplicaciones}
-
-\begin{itemize}
-    \item \textbf{Visualización y análisis estructural:} identificar cuellos de botella, redundancias y zonas críticas.
-    \item \textbf{Análisis de capas:} usando conectividad, centralidad y otras métricas para caracterizar cada capa de la red.
-    \item \textbf{Redes neuronales recurrentes (RNN):} se modelan naturalmente como grafos con ciclos, debido a su retroalimentación temporal.
-    \item \textbf{Interpretabilidad:} detectar nodos influyentes o rutas críticas usando centralidades y flujo.
-    \item \textbf{Graph Neural Networks (GNN):} modelos de aprendizaje profundo que operan directamente sobre estructuras de grafos, utilizados en química computacional, redes sociales, procesamiento de lenguaje natural, entre otros.
-\end{itemize}
-
-

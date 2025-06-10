@@ -1,4 +1,4 @@
-
+\subsection{Perceptrón}
 Un perceptrón es un tipo de neurona artificial que toma varias entradas binarias, $x_1 , x_2 , . . .,$ y produce una única salida binaria:
 \begin{equation}
     \text{salida}=\begin{cases}
@@ -17,7 +17,7 @@ La representación gráfica de un perceptrón es
 
 
 
-Simplicando la descripción de los perceptrones. La condición $
+Simplificando la descripción de los perceptrones. La condición $
 \sum_j w_j x_j > \text{umbral}$ es compleja, y podemos hacer dos cambios de notación para simplificarla. El primer cambio consiste en escribir $\sum_j w_jx_j$ como un producto escalar, $w \cdot x = \sum_j w_j x_j$ , donde $w$ y $x$ son vectores cuyos componentes son los pesos y las entradas, respectivamente. El segundo cambio consiste en desplazar el umbral al otro lado de la desigualdad y reemplazarlo por lo que se conoce como el sesgo (bias) del perceptrón, $b = - \text{umbral}$. Utilizando el sesgo en lugar del umbral, la regla del perceptrón se puede reescribir:
 
 \begin{equation}
@@ -31,8 +31,6 @@ Simplicando la descripción de los perceptrones. La condición $
 
 
 Los perceptrones se pueden usar para calcular las funciones lógicas elementales que solemos considerar como computación subyacente, como AND, OR y NAND. Por ejemplo, supongamos que tenemos un perceptrón con dos entradas, cada una con un peso de $-2$ y un sesgo general de $3$, entonces vemos que la entrada $00$ produce la salida 1, ya que $(-2)\times 0 + (-2)\times 0 + 3 = 3$ es positivo. Cálculos similares muestran que las entradas 01 y 10 producen la salida 1. Pero la entrada 11 produce la salida 0, ya que $(-2)\times 1 + (-2)\times 1 + 3 = -1$ es negativo. Por lo tanto, nuestro perceptrón implementa una puerta NAND.
-
-\clearpage
 
 \section{Modelos de redes}
 

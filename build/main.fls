@@ -1,7 +1,7 @@
-PWD d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0
+PWD d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0
 INPUT C:\Users\carlo\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\main.tex
-OUTPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.log
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\main.tex
+OUTPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.log
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
@@ -246,10 +246,10 @@ INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.aux
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.aux
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.aux
-OUTPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.aux
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.aux
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.aux
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.aux
+OUTPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.aux
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -259,14 +259,14 @@ INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-s
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.out
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.out
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.out
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.out
-OUTPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.pdf
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.out
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.out
-OUTPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.out
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.out
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.out
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.out
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.out
+OUTPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.pdf
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.out
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.out
+OUTPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.out
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
@@ -275,14 +275,11 @@ INPUT .\00_abstract.tex
 INPUT 00_abstract.tex
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx9.tfm
-INPUT .\00_objetivos.tex
-INPUT .\00_objetivos.tex
-INPUT 00_objetivos.tex
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.toc
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.toc
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.toc
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.toc
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.toc
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.toc
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
@@ -298,36 +295,99 @@ INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-OUTPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.toc
+OUTPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.toc
 INPUT C:\Users\carlo\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT .\01.tex
-INPUT .\01.tex
-INPUT 01.tex
+INPUT .\00_objetivos.tex
+INPUT .\00_objetivos.tex
+INPUT 00_objetivos.tex
+INPUT .\01_redesbiologicasvsartificiales.tex
+INPUT .\01_redesbiologicasvsartificiales.tex
+INPUT 01_redesbiologicasvsartificiales.tex
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\Biological-neural-network-2.png
+INPUT .\Biological-neural-network-2.png
+INPUT .\Biological-neural-network-2.png
+INPUT .\Biological-neural-network-2.png
+INPUT .\Biological-neural-network-2.png
+INPUT .\Biological-neural-network-2.png
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
+INPUT .\artneuron.png
+INPUT .\artneuron.png
+INPUT .\artneuron.png
+INPUT .\artneuron.png
+INPUT .\artneuron.png
+INPUT .\artneuron.png
+INPUT .\artneuron.png
+INPUT .\activation-functions.png
+INPUT .\activation-functions.png
+INPUT .\activation-functions.png
+INPUT .\activation-functions.png
+INPUT .\activation-functions.png
+INPUT .\activation-functions.png
+INPUT .\activation-functions.png
+INPUT .\redmulticapa.png
+INPUT .\redmulticapa.png
+INPUT .\redmulticapa.png
+INPUT .\redmulticapa.png
+INPUT .\redmulticapa.png
+INPUT .\redmulticapa.png
+INPUT .\redmulticapa.png
+INPUT .\redconvolucional.png
+INPUT .\redconvolucional.png
+INPUT .\redconvolucional.png
+INPUT .\redconvolucional.png
+INPUT .\redconvolucional.png
+INPUT .\redconvolucional.png
+INPUT .\redconvolucional.png
 INPUT .\02_Fundamentos Teóricos.tex
 INPUT .\02_Fundamentos Teóricos.tex
 INPUT 02_Fundamentos Teóricos.tex
 INPUT .\02.1_Teoría_de_Grafos.tex
 INPUT .\02.1_Teoría_de_Grafos.tex
 INPUT 02.1_Teoría_de_Grafos.tex
-INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT .\Tiposderedes.tex
+INPUT .\Tiposderedes.tex
+INPUT Tiposderedes.tex
+INPUT .\imagen.png
+INPUT .\imagen.png
+INPUT .\imagen.png
+INPUT .\imagen.png
+INPUT .\imagen.png
+INPUT .\imagen.png
+INPUT .\imagen.png
+INPUT .\imagen2.png
+INPUT .\imagen2.png
+INPUT .\imagen2.png
+INPUT .\imagen2.png
+INPUT .\imagen2.png
+INPUT .\imagen2.png
+INPUT .\imagen2.png
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx7.tfm
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx5.tfm
 INPUT .\02.3_Redes_Libres_de_Escala.tex
 INPUT .\02.3_Redes_Libres_de_Escala.tex
 INPUT 02.3_Redes_Libres_de_Escala.tex
-INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
-INPUT .\03.tex
-INPUT .\03.tex
-INPUT 03.tex
+INPUT .\05.Aplicaciones.tex
+INPUT .\05.Aplicaciones.tex
+INPUT 05.Aplicaciones.tex
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\cancer.jpg
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\cancer.jpg
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\cancer.jpg
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\cancer.jpg
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\cancer.jpg
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\cancer.jpg
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\cancer.jpg
 INPUT .\04.tex
 INPUT .\04.tex
 INPUT 04.tex
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.bbl
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.bbl
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.bbl
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.aux
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.out
-INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\carrillo_project_2.0\build\main.out
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.bbl
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.bbl
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.bbl
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.aux
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.out
+INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.out
 INPUT C:\Users\carlo\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\carlo\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
@@ -342,10 +402,14 @@ INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi5.pfb
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi5.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb

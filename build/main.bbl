@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{4}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -9,5 +9,20 @@
 Albert-L{\'a}szl{\'o} Barab{\'a}si and R{\'e}ka Albert.
 \newblock Emergence of scaling in random networks.
 \newblock \emph{Science}, 286\penalty0 (5439):\penalty0 509--512, 1999.
+
+\bibitem[Bollob{\'a}s(1998)]{bollobas1998modern}
+B{\'e}la Bollob{\'a}s.
+\newblock \emph{Modern Graph Theory}.
+\newblock Springer, 1998.
+
+\bibitem[Huang(1987)]{huang1987statistical}
+Kerson Huang.
+\newblock \emph{Statistical Mechanics}.
+\newblock Wiley, 2nd edition, 1987.
+
+\bibitem[Mitchell(2009)]{mitchell2009complexity}
+Melanie Mitchell.
+\newblock \emph{Complexity: A Guided Tour}.
+\newblock Oxford University Press, 2009.
 
 \end{thebibliography}
