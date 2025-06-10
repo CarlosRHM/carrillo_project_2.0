@@ -1,4 +1,4 @@
-\begin{thebibliography}{6}
+\begin{thebibliography}{7}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -15,6 +15,12 @@ Bassem~S. Abunasser, Mohammed R.~J. Al-Hiealy, Ibrahim~S. Zaqout, and Samy~S.
   (2):\penalty0 531--544, February 2023.
 \newblock \doi{10.31557/APJCP.2023.24.2.531}.
 \newblock URL \url{https://doi.org/10.31557/APJCP.2023.24.2.531}.
+
+\bibitem[Agarwal(2018)]{neuralnetdeeplearning}
+Charu~C. Agarwal.
+\newblock \emph{Neural Networks and Deep Learning}.
+\newblock Springer, 2018.
+\newblock ISBN 9783319944623.
 
 \bibitem[Barab{\'a}si and Albert(1999)]{barabasi1999emergence}
 Albert-L{\'a}szl{\'o} Barab{\'a}si and R{\'e}ka Albert.

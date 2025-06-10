@@ -1,20 +1,20 @@
 # Fdb version 4
-["bibtex build/main"] 1749568312 "build/main.aux" "build/main.bbl" "build/main" 1749568315 0
+["bibtex build/main"] 1749569059 "build/main.aux" "build/main.bbl" "build/main" 1749569062 0
   "./ref.bib" 1749567836 1822 c021b034f08268569aeb652fb03e2d74 ""
   "C:/Users/carlo/AppData/Local/Programs/MiKTeX/bibtex/bst/natbib/plainnat.bst" 1284455456 26816 ffe5423d2019860bad9f54bc402fac15 ""
-  "build/main.aux" 1749568314 6981 86e3464de17540bfeb2e9ed5ada45d20 "pdflatex"
+  "build/main.aux" 1749569061 7072 71ef03164db7c8e4a7505f96b84c0925 "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1749568312 "d:/Users/carlo/Desktop/Carrillo Proyect 2/me re lleva/carrillo_project_2.0/main.tex" "build/main.pdf" "main" 1749568315 0
+["pdflatex"] 1749569059 "d:/Users/carlo/Desktop/Carrillo Proyect 2/me re lleva/carrillo_project_2.0/main.tex" "build/main.pdf" "main" 1749569062 0
   "00_abstract.tex" 1749566212 864 09a1c049a5853402f8eea91307a2b816 ""
   "00_objetivos.tex" 1749565614 6018 c109c54da2c3d519dfa3af6d6ef7ae82 ""
-  "01_redesbiologicasvsartificiales.tex" 1749565614 10416 fa77cfe61406c778beab9f7fe84faa08 ""
+  "01_redesbiologicasvsartificiales.tex" 1749569053 10445 292ea5d9421c5024a802e5f7c5291919 ""
   "02.1_Teoría_de_Grafos.tex" 1749567137 5710 5c34669dca55472e96407e6819a18767 ""
   "02.3_Redes_Libres_de_Escala.tex" 1749567457 5807 7aaa91389c618e318cd1339fbb83802b ""
   "02_Fundamentos Teóricos.tex" 1749566722 404 c9cbfac5635b182c7961c86630e0d96b ""
-  "04.tex" 1749568286 1040 1c80c1029477bcce295611c7ff4f7a9e ""
+  "04.tex" 1749569011 1039 93a1c5933234a1f5d7d7dab52471af40 ""
   "05.Aplicaciones.tex" 1749567836 4768 591f283041be0c0525c46977c9da57c2 ""
   "Biological-neural-network-2.png" 1749565614 37236 d88dd5c1938e6bcbcd4057b95db95dd9 ""
   "C:/Users/carlo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1748835813 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
@@ -194,10 +194,10 @@
   "activation-functions.png" 1749565614 670734 fc8cda9fb29ce24649e1fe2825c1dbaf ""
   "artneuron.png" 1749565614 29101 3eff928fa0477fbd05ca25101d66e5c7 ""
   "build/cancer.jpg" 1749565614 104200 11b691eddd6459c106d52eac897d5bf6 ""
-  "build/main.aux" 1749568314 6981 86e3464de17540bfeb2e9ed5ada45d20 "pdflatex"
-  "build/main.bbl" 1749568312 1789 0b926197a4aee20419a5ae40eb024a4f "bibtex build/main"
-  "build/main.out" 1749568314 6757 20395ff7dcb7fb9f73e548f76526a3ea "pdflatex"
-  "build/main.toc" 1749568314 3152 4dcffdcf8a697d498e4d03cf8c604058 "pdflatex"
+  "build/main.aux" 1749569061 7072 71ef03164db7c8e4a7505f96b84c0925 "pdflatex"
+  "build/main.bbl" 1749569059 1969 a8956705a8d6eaf7ca9aa0a6ce4594c5 "bibtex build/main"
+  "build/main.out" 1749569061 6757 20395ff7dcb7fb9f73e548f76526a3ea "pdflatex"
+  "build/main.toc" 1749569061 3152 4dcffdcf8a697d498e4d03cf8c604058 "pdflatex"
   "d:/Users/carlo/Desktop/Carrillo Proyect 2/me re lleva/carrillo_project_2.0/main.tex" 1749568309 2980 eec89289eaa776774beab03354c54430 ""
   "imagen.png" 1749565614 15620 ba7b975ff0b932fa5cae440728d16d6d ""
   "imagen2.png" 1749565614 81757 afba49ea029485b55603c682c92c3824 ""

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2024.6.5)  10 JUN 2025 09:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2024.6.5)  10 JUN 2025 09:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -762,7 +762,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has
                                                   \__shipout_drop_firstpage_...
 l.69 \subsection
                 {Diferencias clave entre redes neuronales biológicas y arti... <./activation-functions.png>]
-<redmulticapa.png, id=225, 189.70876pt x 106.59825pt>
+<redmulticapa.png, id=226, 189.70876pt x 106.59825pt>
 File: redmulticapa.png Graphic file (type png)
 <use redmulticapa.png>
 Package pdftex.def Info: redmulticapa.png  used on input line 96.
@@ -780,7 +780,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has
                                                   \__shipout_drop_firstpage_...
 l.106 P
        ara las redes convolucionales, se define una \textit{operación de co... <./redmulticapa.png>]
-<redconvolucional.png, id=233, 272.217pt x 130.68825pt>
+<redconvolucional.png, id=235, 272.217pt x 130.68825pt>
 File: redconvolucional.png Graphic file (type png)
 <use redconvolucional.png>
 Package pdftex.def Info: redconvolucional.png  used on input line 110.
@@ -802,7 +802,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has
                                                   \__shipout_drop_firstpage_...
 l.114 
       ]) (Tiposderedes.tex
-<imagen.png, id=250, 492.84125pt x 266.9975pt>
+<imagen.png, id=252, 492.84125pt x 266.9975pt>
 File: imagen.png Graphic file (type png)
 <use imagen.png>
 Package pdftex.def Info: imagen.png  used on input line 15.
@@ -815,7 +815,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has
                                                   \__shipout_drop_firstpage_...
 l.22 
       <./imagen.png>]
-<imagen2.png, id=257, 952.55875pt x 400.49625pt>
+<imagen2.png, id=259, 952.55875pt x 400.49625pt>
 File: imagen2.png Graphic file (type png)
 <use imagen2.png>
 Package pdftex.def Info: imagen2.png  used on input line 42.
@@ -827,7 +827,7 @@ LaTeX Info: Redefining \% on input line 20.
 LaTeX Info: Redefining \. on input line 68.
 LaTeX Info: Redefining \% on input line 68.
  [12])) (05.Aplicaciones.tex [13]
-<cancer.jpg, id=288, 407.121pt x 277.035pt>
+<cancer.jpg, id=290, 407.121pt x 277.035pt>
 File: cancer.jpg Graphic file (type jpg)
 <use cancer.jpg>
 Package pdftex.def Info: cancer.jpg  used on input line 49.
@@ -854,17 +854,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 20395FF7DCB7FB9F73E548F76526A3EA;6757.
  ) 
 Here is how much of TeX's memory you used:
- 24317 strings out of 474587
- 447765 string characters out of 5745703
+ 24322 strings out of 474587
+ 447893 string characters out of 5745703
  1949558 words of memory out of 5000000
- 45990 multiletter control sequences out of 15000+600000
+ 45994 multiletter control sequences out of 15000+600000
  564326 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,13n,93p,1207b,782s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,13n,93p,1241b,782s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\carlo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/carlo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.pdf" (16 pages, 1004721 bytes).
+Output written on "d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.pdf" (16 pages, 1006036 bytes).
 PDF statistics:
- 390 PDF objects out of 1000 (max. 8388607)
- 85 named destinations out of 1000 (max. 500000)
+ 392 PDF objects out of 1000 (max. 8388607)
+ 86 named destinations out of 1000 (max. 500000)
  309 words of extra memory for PDF output out of 10000 (max. 10000000)
 
