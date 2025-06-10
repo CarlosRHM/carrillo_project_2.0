@@ -295,8 +295,8 @@ INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-OUTPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.toc
 INPUT C:\Users\carlo\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+OUTPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.toc
 INPUT .\00_objetivos.tex
 INPUT .\00_objetivos.tex
 INPUT 00_objetivos.tex
@@ -385,6 +385,7 @@ INPUT 04.tex
 INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.bbl
 INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.bbl
 INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.bbl
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.aux
 INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.out
 INPUT d:\Users\carlo\Desktop\Carrillo Proyect 2\me re lleva\carrillo_project_2.0\build\main.out
@@ -416,3 +417,5 @@ INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Users\carlo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb

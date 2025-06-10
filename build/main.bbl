@@ -1,9 +1,20 @@
-\begin{thebibliography}{4}
+\begin{thebibliography}{6}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abunasser et~al.(2023)Abunasser, Al-Hiealy, Zaqout, and
+  Abu-Naser]{abunasser2023cnn}
+Bassem~S. Abunasser, Mohammed R.~J. Al-Hiealy, Ibrahim~S. Zaqout, and Samy~S.
+  Abu-Naser.
+\newblock Convolution neural network for breast cancer detection and
+  classification using deep learning.
+\newblock \emph{Asian Pacific Journal of Cancer Prevention}, 24\penalty0
+  (2):\penalty0 531--544, February 2023.
+\newblock \doi{10.31557/APJCP.2023.24.2.531}.
+\newblock URL \url{https://doi.org/10.31557/APJCP.2023.24.2.531}.
 
 \bibitem[Barab{\'a}si and Albert(1999)]{barabasi1999emergence}
 Albert-L{\'a}szl{\'o} Barab{\'a}si and R{\'e}ka Albert.
@@ -24,5 +35,11 @@ Kerson Huang.
 Melanie Mitchell.
 \newblock \emph{Complexity: A Guided Tour}.
 \newblock Oxford University Press, 2009.
+
+\bibitem[Watts and Strogatz(1998)]{watts1998collective}
+Duncan~J. Watts and Steven~H. Strogatz.
+\newblock Collective dynamics of ‘small-world’ networks.
+\newblock \emph{Nature}, 393\penalty0 (6684):\penalty0 440--442, 1998.
+\newblock URL \url{https://doi.org/10.1038/30918}.
 
 \end{thebibliography}
